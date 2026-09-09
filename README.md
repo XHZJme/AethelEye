@@ -280,3 +280,7 @@ Apache-2.0 是宽松型开源协议，包含明确的版权许可、专利许可
 ## 致谢
 
 感谢 FastAPI、Vue、Element Plus、Playwright、SQLAlchemy、APScheduler、ECharts 及相关开源社区。所有第三方名称与商标归其各自权利人所有。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XHZJme/AethelEye&type=Date)](https://star-history.com/#XHZJme/AethelEye&Date)
