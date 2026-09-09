@@ -1,0 +1,70 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.token
+*.secret
+credentials*.json
+secrets*.json
+
+# Runtime data (may contain accounts, cookies, personal information, logs, or evidence)
+data/
+**/data/
+logs/
+**/logs/
+recordings/
+**/recordings/
+backups/
+**/backups/
+browser_profiles/
+**/browser_profiles/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Node / Vue
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build and release output
+dist/
+build/
+release/
+backend/build/
+backend/dist/
+installer/output/
+*.exe
+*.msi
+*.zip
+
+# IDE and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

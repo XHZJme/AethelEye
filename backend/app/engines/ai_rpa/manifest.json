@@ -1,0 +1,13 @@
+{
+  "name": "ai_rpa",
+  "display_name": "AI RPA引擎（Skyvern风格）",
+  "version": "1.0.0",
+  "engine_class": "engine.AIRPAEngine",
+  "description": "基于LLM视觉推理的自适应RPA引擎，支持探索-编译-回放范式",
+  "author": "AethelEye",
+  "min_app_version": "2.0.0",
+  "requires_ai": true,
+  "supported_platforms": ["tmall", "taobao", "jd"],
+  "priority": 200,
+  "capabilities": ["explore", "replay", "self_heal"]
+}

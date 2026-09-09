@@ -1,0 +1,47 @@
+# 筱和灵眸(AethelEye) 后端依赖
+# FastAPI Web框架
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+
+# 数据库
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0  # SQLite异步支持
+
+# 数据验证
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# 认证
+PyJWT[crypto]>=2.8.0              # JWT（使用 cryptography 后端）
+bcrypt>=5.0.0                     # 密码哈希
+
+# 加密
+cryptography>=42.0.0              # Fernet认证加密
+
+# 日志
+loguru>=0.7.0
+
+# HTTP客户端
+httpx>=0.24.0
+
+# 系统指标与导出
+psutil>=5.9.0
+openpyxl>=3.1.0
+
+# 表单处理
+python-multipart>=0.0.6
+
+# 任务调度
+apscheduler>=3.10.0
+
+# 浏览器自动化
+playwright>=1.40.0
+
+# 截图水印
+Pillow>=10.0.0
+
+# 打包
+pyinstaller>=6.0.0
+
+# 系统托盘
+pystray>=0.19.0
