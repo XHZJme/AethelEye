@@ -284,7 +284,7 @@ Apache-2.0 是宽松型开源协议，包含明确的版权许可、专利许可
 ## Contributors
 
 <a href="https://github.com/XHZJme/AethelEye/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=XHZJme/AethelEye" alt="AethelEye Contributors" />
+  <img src="https://contrib.rocks/image?repo=XHZJme%2FAethelEye" alt="AethelEye Contributors" />
 </a>
 
 ## Star History
